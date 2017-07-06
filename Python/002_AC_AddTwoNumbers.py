@@ -1,7 +1,7 @@
 # Author:   Jerry C. Wang <jcpwang@gmail.com>
 # File:     AC_AddTwoNumbers.py
 
-lass Solution(object):
+class Solution(object):
     def addTwoNumbers(self, l1, l2):
         tmp = ListNode(0)
         head = tmp
